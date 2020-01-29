@@ -1,0 +1,1 @@
+myTail ys = let (z:zs) = ys in zs
